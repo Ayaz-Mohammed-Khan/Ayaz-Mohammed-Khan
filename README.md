@@ -12,9 +12,16 @@ challenges. Here's a little more about me:
 - 🌱I'm learning to write a clean and optimal code using Data Structures and Algorithms.
 - ⚡Fun fact: I totally love watching anime, connect to me if you like to do the same.
 - 📫How to reach me: ayazmohdkhan21@gmail.com
-<br>
-<br>
+## Lets Connect!
 
+<p align="left">
+    <a href="https://twitter.com/Ayaz_Khan_001" target="_blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ayaz_Khan_001" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ayaz-mohammed-khan/" target="_blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayaz-mohammed-khan" height="30" width="40" /></a>
+    <a href="mailto:ayazmohdkhan21@gmail.com" target="_blank" ><img align="center" src="https://user-images.githubusercontent.com/95289188/183304380-42ea1bad-4cd0-479f-87a2-35e1321d3927.svg" height="35" width="40" /></a>
+    <a href="https://www.instagram.com/ayaz_khan__001/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayaz_khan__001" height="30" width="40" /></a>
+    <a href="https://leetcode.com/Ayaz_Khan__001/" target="_blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ayaz_Khan__001" height="30" width="40" /></a>
+</p>
+<br>
 
 
 
