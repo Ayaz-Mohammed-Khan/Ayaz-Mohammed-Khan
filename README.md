@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# Hello there folks 👋 
+**Welcome to my page!** <br>
+I'm Ayaz mohammed khan, I am an Engineering Student @ NITAP from India and I love building cool web pages on internet. 
+I'm a Self-starter and passionate engineering student with experience in programming
+outside the university courses and ability to learn other coding languages as need. Aspiring to
+apply my knowledge gained from both the coursework and personal projects to real-world
+challenges. Here's a little more about me:
+- 🔭I'm currently learning and building with JavaScript and React.js.
+- 🌱I'm learning to write a clean and optimal code using Data Structures and Algorithms.
+- ⚡Fun fact: I totally love watching anime, connect to me if you like to do the same.
+- 📫How to reach me: ayazmohdkhan21@gmail.com
 <!--
 **Ayaz-Mohammed-Khan/Ayaz-Mohammed-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
