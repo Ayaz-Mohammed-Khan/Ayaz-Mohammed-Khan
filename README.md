@@ -5,21 +5,20 @@ I'm a Self-starter and passionate engineering student with experience in program
 outside the university courses and ability to learn other coding languages as need. Aspiring to
 apply my knowledge gained from both the coursework and personal projects to real-world
 challenges. Here's a little more about me:
-- 🔭I'm currently learning and building with JavaScript and React.js.
+
+<img align="right" width="330" src="https://cdn.dribbble.com/users/935591/screenshots/19308042/media/456445f39126954baa5d7e4af536fb88.jpeg?compress=1&resize=1200x900&vertical=top">
+
+- 🔭I'm currently learning and building with JavaScript and React.js.                        
 - 🌱I'm learning to write a clean and optimal code using Data Structures and Algorithms.
 - ⚡Fun fact: I totally love watching anime, connect to me if you like to do the same.
 - 📫How to reach me: ayazmohdkhan21@gmail.com
-<!--
-**Ayaz-Mohammed-Khan/Ayaz-Mohammed-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Mohammed-Khan&show_icons=true&theme=chartreuse-dark&border_color=7fff00">
+</div>
